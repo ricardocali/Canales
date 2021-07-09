@@ -14,10 +14,6 @@ https://dl.dropboxusercontent.com/s/xmhko1x7wzcq6ro/La%20casa%20de%20hu%C3%A9spe
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tom y jerry(2021)" tvg-logo="https://pics.filmaffinity.com/Tom_y_Jerry-740894888-large.jpg" group-title="*ESTRENOS 2021*",Tom y jerry(2021)
-https://dl.dropboxusercontent.com/s/3mb8za4xckojqec/Tom.and.Jerry.2021.2160p.mkv?dl=0
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable(2008)" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-29314.jpg" group-title="*ACCIÓN*",Busqueda Implacable(2008)
 https://dl.dropboxusercontent.com/s/9szrlmal1s2kekr/Busqueda%20Implacable.mkv?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2(2012)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/af/Busqueda-implacable-2-poster-oficial-criticsight.jpg/revision/latest?cb=20121009001736&path-prefix=es" group-title="*ACCIÓN*",Busqueda Implacable 2(2012)
@@ -52,7 +48,8 @@ https://www.googleapis.com/drive/v3/files/1vnDXbWvMs5py63LMUmZfX3R5iCZVxQbl?alt=
 https://www.googleapis.com/drive/v3/files/1575U9dzXz-YK3mXQOfNvfj1GLB0gZyY1?alt=media&key=AIzaSyDYtn9MKVkphIv2kqJl_R3_D6swe5sXP6g
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Tom y jerry(2021)" tvg-logo="https://pics.filmaffinity.com/Tom_y_Jerry-740894888-large.jpg" group-title="*ESTRENOS 2021*",Tom y jerry(2021)
+https://dl.dropboxusercontent.com/s/3mb8za4xckojqec/Tom.and.Jerry.2021.2160p.mkv?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg" group-title="*ESTRENOS 2021*",Mortal Kombat (2021)
 https://www.googleapis.com/drive/v3/files/164mrDyVFD8xfJ98rQrw8NNM3HGK8uEam?alt=media&key=AIzaSyDYtn9MKVkphIv2kqJl_R3_D6swe5sXP6g
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/03/cartel-godzilla-vs-kong-2276841.jpg?itok=lUPXaJ9Y" group-title="*ESTRENOS 2021*",Godzilla vs. Kong
